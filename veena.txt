@@ -5,5 +5,4 @@ today i am practicing git pull
 veena is cool
 this is my fifth class
 hello
-git is nice tool 
-veena
+git is nice tool
