@@ -6,4 +6,3 @@ veena is cool
 this is my fifth class
 hello
 git is nice tool 
-veena
